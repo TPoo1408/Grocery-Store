@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756100664994",
+    "project_id": "ecommerce-flutter-84f80",
+    "storage_bucket": "ecommerce-flutter-84f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756100664994:android:1210ebf0e1aa5a60ea11fb",
+        "android_client_info": {
+          "package_name": "com.shokhrukhbek.nectar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrV_7C73a9Egi4bTV_o4QGxPbQsuf9Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
